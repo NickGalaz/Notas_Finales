@@ -1,4 +1,3 @@
-
     /*numero=5;
     alert("Esta prueba es desde la etiqueta script");
     console.log("Estamos probando mensajes en la consola");
@@ -19,10 +18,6 @@
     sumando2 = parseInt (sumando2);
     var total_suma = sumando1 + sumando2;
     document .write( "La suma entre los dos números es " + total_suma);*/
-
-
-
-
 
 
 var nombre=""
