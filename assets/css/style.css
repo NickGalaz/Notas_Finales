@@ -1,0 +1,74 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.colornavbarsup {
+    background-color: #28A745;
+}
+
+.estilocontenedor {
+    padding-top: 9em;
+    width: 100%;
+}
+
+.textouno {
+    font-weight: 700;
+    font-size: 16pt;
+    color: #212529
+}
+
+.textodos {
+    font-weight: 300;
+    font-size: 16pt;
+}
+
+.textotres {
+    font-weight: 300;
+    font-size: 12pt;
+    color: #707070;
+}
+
+.precios {
+    border-color: #28A745;
+    border-style: solid;
+    text-align: right;
+}
+
+.precio1 {
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070
+}
+
+.precio2 {
+    font-weight: 300;
+    font-size: 20pt;
+    color: #28A745;
+}
+
+.derechos {
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+    text-align: center;
+}
+
+.formulario {
+    background-color: #28A745;
+    width: 100%;
+
+}
+
+.frase-form {
+    color: white;
+    font-size: 21pt;
+}
+
+.img-final {
+    width: 18%;
+}
+
+.fondo-verde {
+    background-color: #28A745;
+
+}
